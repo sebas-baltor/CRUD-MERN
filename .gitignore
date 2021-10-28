@@ -4,9 +4,10 @@
 **/node_modules
 /.pnp
 .pnp.js
-/public
-/src
-/README.md
+public/
+src/
+**/README.md
+.vscode/
 
 # testing
 /coverage
